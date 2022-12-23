@@ -1,9 +1,16 @@
-body{
-    background-color: #f5ebe0;
-  }
-  hr {
-    border-style: dotted none none;
-    border-color: #dba39a;
-    border-top-width: 6px;
-    width: 10%;
-  }
+body {
+  background-color: #FCFFE7;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #BAD7E9;
+  border-top-width: 6px;
+  width: 10%;
+}
+h1{
+  color: #EB455F;
+}
+h3{
+  color: #EB455F;
+}
